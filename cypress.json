@@ -1,0 +1,14 @@
+{
+    "chromeWebSecurity": false,
+    "testFiles": "**/*.feature",
+    "blockHosts": [
+        "*.pagead2.*",
+        "*.gum.criterio.com",
+        "/gampad/ads",
+        "https://id.crwdcntrl.net/id",
+        "api-rlcdn.com",
+        "https://match.adsrvr.org",
+        "securepubads.g.doubleclick.net",
+        "https://pbs.nextmillmedia.com"
+      ]
+}
